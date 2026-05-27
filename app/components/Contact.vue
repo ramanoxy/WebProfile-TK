@@ -85,7 +85,7 @@ const socialMedia = [
 
     <!-- Floating WhatsApp Button Tetap Sama -->
     <!-- Floating WhatsApp Button -->
-    <a href="https://wa.me/6281234567890" target="_blank" rel="noopener noreferrer"
+    <a href="https://wa.me/6281802505333" target="_blank" rel="noopener noreferrer"
        class="fixed bottom-6 right-6 md:bottom-8 md:right-8 z-50 bg-[#25D366] hover:bg-[#20bd5a] text-white p-4 rounded-full shadow-lg shadow-[#25D366]/40 transition-all hover:scale-110 flex items-center justify-center group cursor-pointer">
       
       <!-- Icon SVG WhatsApp Premium -->
