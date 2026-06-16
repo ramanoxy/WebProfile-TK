@@ -3,9 +3,9 @@ import { ref, onMounted, onUnmounted } from 'vue'
 
 const slides = [
   {
-    src: '/images/gallery-1.png',
-    title: 'Berkebun & Mengenal Alam',
-    description: 'Menanamkan rasa cinta lingkungan sejak dini dengan berkebun bersama di taman sekolah.'
+    src: '/images/gallery-1.jpeg',
+    title: 'Akhirusannah',
+    description: 'Momen berharga di akhir tahun ajaran, penuh tawa dan kebahagiaan.'
   },
   {
     src: '/images/gallery-2.png',

@@ -42,7 +42,7 @@ const socialMedia = [
               </svg>
             </div>
             <h4 class="font-bold text-lg text-neutral-dark mb-2">Alamat</h4>
-            <p class="text-neutral-base">Jl. Kebahagiaan No. 123<br>Jakarta Selatan, 12345</p>
+            <p class="text-neutral-base">Komplek Masjid At Taubah<br>Desa Klipan RT2 RW2, Tohudan, Colomadu</p>
           </div>
           
           <!-- 2. Email (Menggunakan Outline Icon) -->
@@ -53,8 +53,8 @@ const socialMedia = [
               </svg>
             </div>
             <h4 class="font-bold text-lg text-neutral-dark mb-2">Email</h4>
-            <a href="mailto:halo@kinderjoy.sch.id" class="text-neutral-base hover:text-primary transition-colors">
-              halo@kinderjoy.sch.id
+            <a href="mailto:tkaisyiyahtohudan01@gmail.com" class="text-neutral-base hover:text-primary transition-colors">
+              tkaisyiyahtohudan01@gmail.com
             </a>
           </div>
           
