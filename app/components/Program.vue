@@ -1,7 +1,7 @@
 <script setup>
 const programs = [
-  { name: 'TK A', age: '2-3 Tahun', desc: 'Fokus pada sensori & motorik kasar.', badge: 'bg-primary' },
-  { name: 'TK B', age: '3-4 Tahun', desc: 'Pengenalan bahasa & kemandirian.', badge: 'bg-secondary' }
+  { name: 'TK A', age: '4-5 Tahun', desc: 'Fokus pada pengembangan kemampuan dasar anak melalui kegiatan bermain yang menyenangkan.', badge: 'bg-primary' },
+  { name: 'TK B', age: '5-6 Tahun', desc: 'Fokus pada penguatan kemandirian, kemampuan berpikir, komunikasi, serta kesiapan literasi dan numerasi dasar melalui pembelajaran yang menyenangkan.', badge: 'bg-secondary' }
 ]
 </script>
 

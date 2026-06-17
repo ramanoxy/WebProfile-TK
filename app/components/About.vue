@@ -6,7 +6,7 @@
         <div class="w-full md:w-1/2">
           <div class="bg-neutral-light h-80 rounded-3xl overflow-hidden shadow-md flex justify-center items-center">
             <img
-              src="/images/jjuk.webp"
+              src="/images/gallery-6.jpeg"
               alt="Foto Anak Ceria"
               class="w-full h-full object-cover"
             />

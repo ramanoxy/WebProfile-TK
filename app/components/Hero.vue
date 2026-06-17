@@ -22,7 +22,7 @@
           <div class="aspect-square bg-white/50 rounded-[3rem] rotate-3 p-4 shadow-xl">
             <div class="w-full h-full bg-secondary-light rounded-[2.5rem] flex items-center justify-center border-4 border-white">
                <img
-                  src="/images/jjuk.webp"
+                  src="/images/hero.jpeg"
                   alt="Foto Anak Ceria"
                   class="w-full h-full object-cover rounded-3xl"
                 />

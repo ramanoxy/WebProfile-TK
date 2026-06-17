@@ -8,23 +8,23 @@ const slides = [
     description: 'Momen berharga di akhir tahun ajaran, penuh tawa dan kebahagiaan.'
   },
   {
-    src: '/images/gallery-2.png',
+    src: '/images/gallery-2.jpeg',
+    title: 'Wisata Religius',
+    description: 'Mengenal dan mendalami nilai-nilai keagamaan melalui kunjungan edukatif yang penuh makna dan keceriaan.'
+  },
+  {
+    src: '/images/gallery-3.jpeg',
     title: 'Kreativitas & Seni Lukis',
     description: 'Mengekspresikan imajinasi anak secara bebas melalui goresan kuas dan warna-warni yang indah.'
   },
   {
-    src: '/images/gallery-3.png',
-    title: 'Kolaborasi Balok Susun',
-    description: 'Melatih kemampuan motorik halus, logika spasial, dan kerja sama tim secara menyenangkan.'
+    src: '/images/gallery-4.jpeg',
+    title: 'Bermain Musik',
+    description: 'Menstimulasi kecerdasan auditori, ritme, dan harmoni melalui kegiatan musik yang menyenangkan dan penuh semangat.'
   },
   {
-    src: '/images/gallery-4.png',
-    title: 'Dunia Literasi & Cerita',
-    description: 'Mengembangkan kecintaan membaca dan kemampuan berbahasa lewat dongeng interaktif.'
-  },
-  {
-    src: '/images/jjuk.webp',
-    title: 'Keceriaan di Luar Kelas',
+    src: '/images/gallery-5.jpeg',
+    title: 'Outbond',
     description: 'Bermain aktif dan eksploratif di lingkungan sekolah yang hijau, teduh, dan aman.'
   }
 ]
